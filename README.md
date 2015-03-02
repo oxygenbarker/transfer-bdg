@@ -225,18 +225,11 @@ H. Always ask if the hypothesis at least in principle can be falsified
 Inveterate skeptics must be given the chance to follow your reasoning, to duplicate your experiments and to see if they get the same result. Proportions that are untestable, unfalsifiable are not worth much.
 
 
-
-
-
-
-
-
 Like all tools the baloney detection [guidelines] can be misused, applied out of context, or even employed as a rote alternative to thinking. But applied judiciously, it can make all the difference in the world – not least in evaluating our own arguments before we present them to others.
 
 
+### Baloney Detection Guidelines - Short Version
 
-
-Baloney Detection Guidelines - Short Version
 Source: Michael Shermer: Baloney Detection Kit
 ( https://www.youtube.com/watch?v=aNSHZG9blQQ )
 
