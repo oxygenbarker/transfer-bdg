@@ -1,12 +1,13 @@
-Baloney Detection Guidelines
-Sources:
+### Baloney Detection Guidelines
+
+#### Sources:
 - Michael Shermer: Why People Believe Weird Things (Paperback edition 2002, ISBN 978-0-8050-7089-7, pages 46-60)
 - Carl Sagan: The Demon-Haunted World (First Ballantine Books Edition 1997, ISBN 978-0-345-40946-1, pages 210-216)
 - a few own examples
 
 The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true.
 
-Bad practices (what you should NOT do)
+#### Bad practices (what you should NOT do)
 1. Theory influences observations
 (a) Cinnamon was a valuable Asian spice, and the first New World shrub that smelled like cinnamon was declared to be it.
 (b) Quantum physics changed how we analyze subatomic events. In fact, we do not do the analysis for separate events anymore.
@@ -195,7 +196,7 @@ Talleyrand: “An important art of politicians is to find new names for institut
 
 
 
-Good practices (what you should do):
+#### Good practices (what you should do):
 A. Independent confirmation of the “facts“ whenever possible
 Make it more unlikely that something else is/was going on.
 
