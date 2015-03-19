@@ -154,7 +154,7 @@ Often to rescue a deep rhetorical trouble
 **28. Statistics of small numbers**
 (a) “They say 1 out of every 5 people is Chinese. How is this possible? I know hundreds of people, and none of them is Chinese.“
 
-**29. Misunderstanding of the nature of statistics; confusion of correlation and causation; post hoc, ergo propter hoc (it **happened after, so it was caused by)
+**29. Misunderstanding of the nature of statistics; confusion of correlation and causation; post hoc, ergo propter hoc (it happened after, so it was caused by)**
 (a) President Dwight Eisenhower expressing astonishment and alarm on discovering that fully half of all Americans have below average intelligence.
 (b) A survey shows that more college graduates are homosexual than those with lesser education; therefore education makes people gay.
 (c) Before women got the vote, there were no nuclear weapons.
@@ -190,31 +190,31 @@ Talleyrand: “An important art of politicians is to find new names for institut
 
 
 #### Good practices (what you should do):
-A. Independent confirmation of the “facts“ whenever possible
+**A.** Independent confirmation of the “facts“ whenever possible
 Make it more unlikely that something else is/was going on.
 
-B. Encourage debate on the evidence
+**B.** Encourage debate on the evidence
 Knowledgeable proponents of all points of view should participate so you get different explanations. Compare with C.
 
-C. Spin more than one hypothesis
+**C.** Spin more than one hypothesis
 If there is something to be explained, think of all the different ways in which it could be explained. Then think of tests how to disprove each of the alternatives. What remains , meaning resists disproof, has a much better chance of being the right answer than just running with the first idea.
 
-D. Try not to get overly attached to a hypothesis just because it's yours
+**D.** Try not to get overly attached to a hypothesis just because it's yours
 It's only a way station in the pursuit of knowledge. Ask yourself, why you like the idea. See if you find reasons for rejecting it. If you don't, others will.
 
-E. Quantify
+**E.** Quantify
 If there is some measure, some numerical quantity attached to what you try to explain, it will be much easier to discriminate among competing hypotheses. Of course there are truths to be sought in the many qualitative issues we are obliged to confront, but finding them is more challenging.
 
-F. Every link of a chain argument has to work
+**F.** Every link of a chain argument has to work
 This includes the premise! It is not enough if most of the links work if you want to conclude anything from it.
 
-G. Occam's Razor
+**G.** Occam's Razor
 Rule-of-thumb: If there are two hypotheses explaining the data equally well, choose the simpler one.
 Simpler here means less assumptions and less unproven assumptions. Don't confuse with “easy explanations” which often make the greatest assumptions!
 (a) The hypothesis that everything in the universe is moving and turning around the earth makes the derivation of physical laws (planetary orbits moving in relation to the earth) much more complicated than if the earth is only one part and also moving.
 (b) Healing people works by laying on of hands.
 
-H. Always ask if the hypothesis at least in principle can be falsified
+**H.** Always ask if the hypothesis at least in principle can be falsified
 Inveterate skeptics must be given the chance to follow your reasoning, to duplicate your experiments and to see if they get the same result. Proportions that are untestable, unfalsifiable are not worth much.
 
 
@@ -261,3 +261,4 @@ Is there another theory that explains the data which the theory of evolution exp
 **10. Are personal beliefs driving the claim?**
 Somebody who is pro business: “Global warming does not happen.“, “Humans are not responsible for global warming.“
 Somebody who believes in God: “The different species were created and did not evolve.“
+
