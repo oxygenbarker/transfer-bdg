@@ -1,35 +1,37 @@
 ### Baloney Detection Guidelines
 
 #### Sources:
-- Michael Shermer: Why People Believe Weird Things (Paperback edition 2002, ISBN 978-0-8050-7089-7, pages 46-60)
-- Carl Sagan: The Demon-Haunted World (First Ballantine Books Edition 1997, ISBN 978-0-345-40946-1, pages 210-216)
+[1] - Michael Shermer: Why People Believe Weird Things (Paperback edition 2002, ISBN 978-0-8050-7089-7, pages 46-60)
+[2] - Carl Sagan: The Demon-Haunted World (First Ballantine Books Edition 1997, ISBN 978-0-345-40946-1, pages 210-216)
+[3] - http://rawfoodsos.com/2010/07/07/the-china-study-fact-or-fallac/
+[4] - Weaver, J.H., ed. 1987. The World of Physics: A Small Library of the Literature of Physics from Antiquity to the Present, vol. 2, The Einstein Universe and the Bohr Atom. New York: Simon & Schuster
 - a few own examples
 
-The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true.
+"The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true. [2]"
 
-#### Bad practices (what you should NOT do)
-**1. Theory influences observations**
-(a) Cinnamon was a valuable Asian spice, and the first New World shrub that smelled like cinnamon was declared to be it.
+#### Bad practices (what you should NOT do)co
+**1. "Theory Influences Observations [1]"** 
+(a) "Cinnamon was a valuable Asian spice, and the first New World shrub that smelled like cinnamon was declared to be it.[1]"
 (b) Quantum physics changed how we analyze subatomic events. In fact, we do not do the analysis for separate events anymore.
 
-**2. The observer changes the observed**
+**2. "The Observer Changes The Observed [1]"**
 (a) Anthropologists study a tribe which may alter the behavior of the tribe members.
-(b) Building an apparatus to measure electrons might change the behavior of the electrons.
+(b) Building an apparatus to measure electrons might change the behavior of the electrons. [4]
 
-**3. Equipment constructs results**
-(a) Using a specific fisher's net:
-    (i) no sea-creature is less than 2 inches long.
-    (ii) all sea-creatures have gills.
-An ichthyologist then might say:“Anything uncatchable by my net is ipso facto outside the scope of ichthyological knowledge and not part of the kingdom of fishes.“
+**3. "Equipment Constructs Results [1]"**
+(a) Using a specific fisher's net: [1]
+    (i) "No sea-creature is less than 2 inches long.[1]"
+    (ii) "All sea-creatures have gills.[1]"
+An ichthyologist then might say: “Anything uncatchable by my net is ipso facto outside the scope of ichthyological knowledge and not part of the kingdom of fishes.[1]“
 (b) Bad telescopes were the reason why in earlier days people thought that Saturn consists of three parts instead of having rings.
 
-**4. Anecdotes do not make a science**
-Ten anecdotes are not better than one. 100 anecdotes are not better than ten.
-(a) “Aunt Mary's cancer was cured by watching Marx brothers movies.”
-(b) “Farmer Bob is a very honest guy and told us that he was kidnapped by aliens last month.” Where is the evidence?
+**4. "Anecdotes Do Not Make A Science [1]"**
+"[T]en anecdotes are not better than one. [1]" "[100] anecdotes are not better than ten.[1]"
+(a) “Aunt Mary's cancer was cured by watching Marx brothers movies [...]. [1]”
+(b) Farmer Bob is a very honest guy and told us that he was kidnapped by aliens last month. Where is the evidence?
 
-**5. Scientific language does not make a science**
-(a) “This planet has been slumbering for eons and with the inception of higher energy frequencies is about to awaken in term of consciousness and spirituality. Masters of limitation and masters of divination use the same creative force to manifest their realities, however, one moves in a downward spiral and the latter moves in an upward spiral, each increasing the resonant vibration inherent in them.”
+**5. "Scientific Language Does Not Make A Science[1]"**
+(a) “[...] New Age Column in the Santa Monica News: 'This planet has been slumbering for eons and with the inception of higher energy frequencies is about to awaken in term of consciousness and spirituality. Masters of limitation and masters of divination use the same creative force to manifest their realities, however, one moves in a downward spiral and the latter moves in an upward spiral, each increasing the resonant vibration inherent in them.' [1]"
 Where is the evidence, experimental testing, and corroboration?
 (b) Creationists often use scientific terms.
 
@@ -90,7 +92,7 @@ In science, believe should come from positive evidence in support of a claim, no
 Literally “to the man“ and “you also“.
 Fallacy to redirect focus from thinking about the idea to thinking about the person holding the idea.
 (a) Responding to somebody saying: “Hitler did not have a master plan for the Extermination of the European Jewry“ with “You are a neo-Nazi and an anti-Semite“ does not refute the argument. Whether Hitler had a master plan is a question that can be settled historically.
-(b) T. Colin Campbell (author of “The China Study” answering the critical analysis of his book, don't confuse with the real study “Diet, Life-Style, and Mortality in China”): “She claims to have no biases – either for or against – but nonetheless liberally uses adjectives and cutesy expressions that leaves me wondering.”
+(b) T. Colin Campbell (author of “The China Study” answering the critical analysis of his book, don't confuse with the real study “Diet, Life-Style, and Mortality in China”): “She claims to have no biases – either for or against – but nonetheless liberally uses adjectives and cutesy expressions that leaves me wondering.” [3]
 (c) “You cheat on taxes!“ - „So do you!“ is not a proof in one way or another.
 
 **18. Hasty generalization**
