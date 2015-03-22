@@ -1,15 +1,15 @@
 ### Baloney Detection Guidelines
 
 #### Sources:
-[1] - Michael Shermer: Why People Believe Weird Things (Paperback edition 2002, ISBN 978-0-8050-7089-7, pages 46-60)
-[2] - Carl Sagan: The Demon-Haunted World (First Ballantine Books Edition 1997, ISBN 978-0-345-40946-1, pages 210-216)
-[3] - http://rawfoodsos.com/2010/07/07/the-china-study-fact-or-fallac/
-[4] - Weaver, J.H., ed. 1987. The World of Physics: A Small Library of the Literature of Physics from Antiquity to the Present, vol. 2, The Einstein Universe and the Bohr Atom. New York: Simon & Schuster
+- [1] Michael Shermer: Why People Believe Weird Things (Paperback edition 2002, ISBN 978-0-8050-7089-7, pages 46-60)
+- [2] Carl Sagan: The Demon-Haunted World (First Ballantine Books Edition 1997, ISBN 978-0-345-40946-1, pages 210-216)
+- [3] http://rawfoodsos.com/2010/07/07/the-china-study-fact-or-fallac/
+- [4] Weaver, J.H., ed. 1987. The World of Physics: A Small Library of the Literature of Physics from Antiquity to the Present, vol. 2, The Einstein Universe and the Bohr Atom. New York: Simon & Schuster
 - a few own examples
 
 "The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true. [2]"
 
-#### Bad practices (what you should NOT do)co
+#### Bad practices (what you should NOT do)
 **1. "Theory Influences Observations [1]"** 
 (a) "Cinnamon was a valuable Asian spice, and the first New World shrub that smelled like cinnamon was declared to be it.[1]"
 (b) Quantum physics changed how we analyze subatomic events. In fact, we do not do the analysis for separate events anymore.
