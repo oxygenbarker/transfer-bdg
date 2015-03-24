@@ -5,6 +5,8 @@
 - [2] Carl Sagan: The Demon-Haunted World (First Ballantine Books Edition 1997, ISBN 978-0-345-40946-1, pages 210-216)
 - [3] http://rawfoodsos.com/2010/07/07/the-china-study-fact-or-fallac/
 - [4] Weaver, J.H., ed. 1987. The World of Physics: A Small Library of the Literature of Physics from Antiquity to the Present, vol. 2, The Einstein Universe and the Bohr Atom. New York: Simon & Schuster
+- [5] L. Ron Hubbard: DIANETICS THE MODERN SCIENCE OF MENTAL HEALTH http://projectavalon.net/DMSMH.PDF page 5
+- [6] Martin Gardner: Fads and Fallacies in the Name of Science, New York: Dover, 1952, page 263
 - a few own examples
 
 "The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true. [2]"
@@ -19,7 +21,7 @@
 (b) Building an apparatus to measure electrons might change the behavior of the electrons. [4]
 
 **3. "Equipment Constructs Results [1]"**
-(a) Using a specific fisher's net: [1]
+(a) Using a specific fisher's net:[1]
     (i) "No sea-creature is less than 2 inches long.[1]"
     (ii) "All sea-creatures have gills.[1]"
 An ichthyologist then might say: “Anything uncatchable by my net is ipso facto outside the scope of ichthyological knowledge and not part of the kingdom of fishes.[1]“
@@ -35,13 +37,13 @@ An ichthyologist then might say: “Anything uncatchable by my net is ipso facto
 Where is the evidence, experimental testing, and corroboration?
 (b) Creationists often use scientific terms.
 
-**6. Bold statements do not make claims true**
-High probability of pseudo-science if there are enormous claims used.
-(a) “The creation of Dianetics is a milestone for man comparable to his discovery of fire and superior to his invention of the wheel and arch.”
-(b) Wilhelm Reich's Orgonomy: “a revolution in biology and psychology comparable to the Copernican Revolution”
+**6. "Bold Statements Do Not Make Claims True[1]"**
+High probability of pseudo-science if there are enormous claims used.[1]
+(a) "The creation of Dianetics is a milestone for man comparable to his discovery of fire and superior to his invention of the wheel and arch.[5]"
+(b) Wilhelm Reich's Orgonomy: "a revolution in biology and psychology comparable to the Copernican Revolution[6]"
 Also scientists do that mistake sometimes:
-(c) Stanley Pons and Martin Fleischmann 1989 press conference: “Cold nuclear fusion works!”
-50 years of physics would have been proven wrong. The experiment was not reproducible by others.
+(c) Stanley Pons and Martin Fleischmann 1989 press conference: Cold nuclear fusion works![1]
+About 50 years of physics would have been proven wrong.[1] The experiment was not reproducible by others.
 
 **7. Heresy does not equal correctness**
 They laughed at Copernicus and the Wright brothers. But still being laughed at does not make any ideas more valid.
