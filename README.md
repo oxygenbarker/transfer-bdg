@@ -6,7 +6,7 @@
 - [3] http://rawfoodsos.com/2010/07/07/the-china-study-fact-or-fallac/
 - [4] Weaver, J.H., ed. 1987. The World of Physics: A Small Library of the Literature of Physics from Antiquity to the Present, vol. 2, The Einstein Universe and the Bohr Atom. New York: Simon & Schuster
 - [5] L. Ron Hubbard: DIANETICS THE MODERN SCIENCE OF MENTAL HEALTH http://projectavalon.net/DMSMH.PDF page 5
-- [6] Martin Gardner: Fads and Fallacies in the Name of Science, New York: Dover, 1952, page 263
+- [6] Martin Gardner: Fads and Fallacies in the Name of Science, New York: Dover, 1952
 - a few own examples
 
 "The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true. [2]"
@@ -45,20 +45,20 @@ Also scientists do that mistake sometimes:
 (c) Stanley Pons and Martin Fleischmann 1989 press conference: Cold nuclear fusion works![1]
 About 50 years of physics would have been proven wrong.[1] The experiment was not reproducible by others.
 
-**7. Heresy does not equal correctness**
-They laughed at Copernicus and the Wright brothers. But still being laughed at does not make any ideas more valid.
-(a) Wilhelm Reich: “Whatever you have done to me or will do to me in the future, whether you glorify me as a genius or put me in a mental institution, whether you adore me as your savior or hang me as a spy, sooner or later necessity will force you to comprehend that I have discovered the laws of the living.“
+**7. "Heresy Does Not Equal Correctness[1]"**
+"They laughed at Copernicus [and] the Wright brothers.[1]" But still being laughed at does not make any ideas more valid.[1]
+(a) Wilhelm Reich: “Whatever you have done to me or will do to me in the future, whether you glorify me as a genius or put me in a mental institution, whether you adore me as your savior or hang me as a spy, sooner or later necessity will force you to comprehend that I have discovered the laws of the living.[6]“
 
-**8. Burden of proof**
-The person making the extraordinary claim has the burden of proving to the experts and to the community at large that his or her belief has more validity than the one almost everyone accepts.
-(a) Evolutionists and Darwin had the burden of proof for half a century but now the burden of proof is on creationists.
-(b) Holocaust deniers have to prove that it did not happen.
+**8. "Burden Of Proof[1]"**
+"The person making the extraordinary claim has the burden of proving to the experts and to the community at large that his or her belief has more validity than the one almost everyone else accepts.[1]"
+(a) "Evolutionists [and Darwin] had the burden of proof for half a century [...] but now the burden of proof is on creationists.[1]"
+(b) Holocaust deniers have to prove that it did not happen. [1]
 
-**9. Rumors do not equal reality**
+**9. "Rumors Do Not Equal Reality[1]"**
 (a) Urban legends, ... most of them were never confirmed.
 
-**10. Unexplained is not inexplicable**
-(a) An amateur archeologist declares that because he cannot figure out how the pyramids were built, they must have been constructed by space aliens.
+**10. "Unexplained Is Not Inexplicable[1]"**
+(a) "An amateur archeologist declares that because he cannot figure out how the pyramids were built, they must have been constructed by space aliens.[1]"
 
 **11. Failures are rationalized**
 Real scientists will admit errors, pseudoscientists will rationalize their failures.
