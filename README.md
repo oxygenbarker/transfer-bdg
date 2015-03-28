@@ -60,10 +60,10 @@ About 50 years of physics would have been proven wrong.[1] The experiment was no
 **10. "Unexplained Is Not Inexplicable[1]"**
 (a) "An amateur archeologist declares that because he cannot figure out how the pyramids were built, they must have been constructed by space aliens.[1]"
 
-**11. Failures are rationalized**
-Real scientists will admit errors, pseudoscientists will rationalize their failures.
-(a) “My power usually works but this situation of the test or with these cameras has a bad influence on my psychic powers.“
-(b) “My powers are mythical and come and go, so when pressured I sometimes have to cheat.“
+**11. "Failures Are Rationalized[1]"**
+Real scientists will admit errors, pseudoscientists will rationalize their failures.[1]
+(a) My power usually works but this situation of the test or with these cameras has a bad influence on my psychic powers.
+(b) My powers are mythical and come and go, so when pressured I sometimes have to cheat.[1]
 
 **12. After-the-fact reasoning**
 (a) A Baseball player does not shave and hits two home-runs in a row. Then he thinks it was because he did not shave. If he did shave but did wear different shoes than normally he would have thought that it was because of the shoes.
