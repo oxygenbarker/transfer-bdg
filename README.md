@@ -7,6 +7,7 @@
 - [4] Weaver, J.H., ed. 1987. The World of Physics: A Small Library of the Literature of Physics from Antiquity to the Present, vol. 2, The Einstein Universe and the Bohr Atom. New York: Simon & Schuster
 - [5] L. Ron Hubbard: DIANETICS THE MODERN SCIENCE OF MENTAL HEALTH http://projectavalon.net/DMSMH.PDF page 5
 - [6] Martin Gardner: Fads and Fallacies in the Name of Science, New York: Dover, 1952
+- [7] James Randi taking homeopathic sleeping pills: https://www.youtube.com/watch?v=sCYvOgBaEY8 and https://www.youtube.com/watch?v=c0Z7KeNCi7g
 - a few own examples
 
 "The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true. [2]"
@@ -65,19 +66,19 @@ Real scientists will admit errors, pseudoscientists will rationalize their failu
 (a) My power usually works but this situation of the test or with these cameras has a bad influence on my psychic powers.
 (b) My powers are mythical and come and go, so when pressured I sometimes have to cheat.[1]
 
-**12. After-the-fact reasoning**
-(a) A Baseball player does not shave and hits two home-runs in a row. Then he thinks it was because he did not shave. If he did shave but did wear different shoes than normally he would have thought that it was because of the shoes.
+**12. "After-the-Fact Reasoning[1]"**
+(a) A Baseball player does not shave and hits two home-runs in a row.[1] Then he thinks it was because he did not shave. If he did shave but did wear different shoes than normally he would have thought that it was because of the shoes.
 Science works the other way round: First you make a claim: “Not shaving increases the probability to do home-runs.“ and then you check out if in the long run you make more home-runs than normally.
-(b) People take whole packages of homeopathic medicine to demonstrate that it has no effect. The homeopath says: “Look how good it is. It has no side effects!”
+(b) People take whole packages of homeopathic medicine to demonstrate that it has no effect.[7] The homeopath might say: Look how good it is. It has no side effects!
 
-**13. Coincidence**
-(a) A gambler will win six times in a row and then think that he is in a hot streak.
-(b) The phone rings and you think it is Bob. When it is Bob you think that this means anything.
+**13. "Coincidence[1]"**
+(a) "A gambler will win six [times] in a row and then think he is [...] 'on a hot streak'.[1]"
+(b) The phone rings and you think it is Bob. When it is Bob you think that this means anything.[1]
 What are the chances that this happens? It will happen sometimes. In addition we have the tendency to remember the hits and forget the misses (see 14.).
 
-**14. Representativeness**
-Aristotle: “The sum of coincidences equals certainty.“
-(a) Psychics make hundreds of predictions for the next year and a few will hit because of probability. Then they only communicate the hits or we will only remember the hits and emphasize them more.
+**14. "Representativeness[1]"**
+Aristotle: "The sum of coincidences equals certainty.[1]"
+(a) Psychics make hundreds of predictions for the next year and a few will hit because of probability. Then they only communicate the hits or we will only remember the hits and emphasize them more.[1]
 
 **15. Emotive words and false analogies**
 Motherhood, America, integrity, honesty might invoke positive reactions, words like rape, cancer, evil, communist might lead to negative reactions.
