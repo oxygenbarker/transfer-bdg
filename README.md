@@ -80,63 +80,63 @@ What are the chances that this happens? It will happen sometimes. In addition we
 Aristotle: "The sum of coincidences equals certainty.[1]"
 (a) Psychics make hundreds of predictions for the next year and a few will hit because of probability. Then they only communicate the hits or we will only remember the hits and emphasize them more.[1]
 
-**15. Emotive words and false analogies**
+**15. "Emotive words and false analogies"**
 Motherhood, America, integrity, honesty might invoke positive reactions, words like rape, cancer, evil, communist might lead to negative reactions.
 (a) „The cancer of society,“ „raping the environment,“ Memes, ...
 The thinking can be clouded by this.
 
-**16. Appeal to ignorance**
+**16. "Appeal to ignorance"**
 (a) If you cannot prove that there isn't any psychic power, then there must be.
 (b) If you cannot prove that Santa Claus does not exist, then he must exist.
 (c) If you cannot prove that Santa Claus exists, then he must not exist.
 In science, believe should come from positive evidence in support of a claim, not lack of evidence for OR against it.
 
-**17. Ad hominem and tu quoque**
+**17. "Ad hominem and tu quoque"**
 Literally “to the man“ and “you also“.
 Fallacy to redirect focus from thinking about the idea to thinking about the person holding the idea.
 (a) Responding to somebody saying: “Hitler did not have a master plan for the Extermination of the European Jewry“ with “You are a neo-Nazi and an anti-Semite“ does not refute the argument. Whether Hitler had a master plan is a question that can be settled historically.
 (b) T. Colin Campbell (author of “The China Study” answering the critical analysis of his book, don't confuse with the real study “Diet, Life-Style, and Mortality in China”): “She claims to have no biases – either for or against – but nonetheless liberally uses adjectives and cutesy expressions that leaves me wondering.” [3]
 (c) “You cheat on taxes!“ - „So do you!“ is not a proof in one way or another.
 
-**18. Hasty generalization**
+**18. "Hasty generalization"**
 Prejudice, drawing conclusions before the facts warrant it
 (a) A couple of bad teachers mean a bad school.
 (b) A few bad cars mean that the brand of the automobiles is unreliable.
 (c) A handful of members of a group are used to judge the entire group.
 
-**19. Over-reliance on authorities**
+**19. "Over-reliance on authorities"**
 (a) If Einstein says that the world is flat he must be right.
 (b) If a homeless person tells us that our lifestyle of consumption will lead to severe problems with nature he is wrong or jealous.
 Examine the evidence instead of the status of the speaker!
 
-**20. Either-or (Fallacy of negation, false dilemma) and excluded middle**
+**20. "Either-or (Fallacy of negation, false dilemma) and excluded middle"**
 (a) Creationists say: „Life was either divinely created or evolved.“
 It is not enough to discredit another theory. If your theory is superior it must explain the „normal“ data explained by the old theory plus the „anomalous“ data the old theory was not able to explain.
 (b) Either you love your country or you hate it.
 (c) If you're not part of the solution, you're part of the problem.
 (d) Special case short-term vs. Long-term: „We can't afford programs to feed malnourished children and educate pre-school kids. We need to urgently deal with crime on the streets.“
 
-**21. Circular reasoning (Fallacy of redundancy, tautology) and begging the question**
+**21. "Circular reasoning (Fallacy of redundancy, tautology) and begging the question"**
 (a) “Is there a God?“ - “Yes.“ - “How do you know?“ - “Because the bible says so.“ - “How do you know the Bible is correct?“ - “Because it was inspired by God.“ = “God is because God is.“
 (b) “What is gravity?“ - “The tendency for objects to be attracted to one another.“ - “Why are objects attracted to one another?“ - “Gravity.“ = “Gravity is because gravity is.“
 A tautological operational definition can still be useful, but we should try to construct operational definitions that can be tested, falsified, and refuted.
 (c) “We must institute the death penalty to discourage violent crime.”
 Does the violent crime rate in fact fall when the death penalty is imposed? Independent evidence?
 
-**22. Reductio ad absurdum and the slippery slope**
+**22. "Reductio ad absurdum and the slippery slope"**
 (a) “Eating Ben & Jerry's ice cream will cause you put on weight. Putting on weight will make you overweight. Soon you will weigh 350 pounds and die of heart disease. Eating Ben & Jerry's ice cream leads to death. Don't even try it.“ Eating one scoop could contribute to overweight but the consequences do not necessarily follow from the premise.
 Slippery slope = don't even take the first step because it ultimately leads to an extreme end.
 Reductio ad absurdum = refutation of an argument by carrying the argument to it's logical end and so reducing it to an absurd conclusion.
 (b) If the state prohibits abortion even in the ninth month, it will soon be telling us what to do with our bodies around the time of conception.
 
-**23. Effort inadequacies and the need for certainty, control, and simplicity**
+**23. "Effort inadequacies and the need for certainty, control, and simplicity"**
 Uncertainties lead the mind to look for explanations.
 Most of us are looking for easy explanations but this can lead to oversimplification.
 (a) “People do steal because of their bad genes.“
 (b) “He does not like me because he is bad.“
 (c) “He was raised to dislike certain people.“
 
-**24. Problem-solving inadequacies (confirmation bias)**
+**24. "Problem-solving inadequacies (confirmation bias)"**
 People tend to
 (i) Immediately form a hypothesis and look only for examples to confirm it.
 (ii) Do not seek evidence to disprove the hypothesis.
@@ -144,50 +144,50 @@ People tend to
 (iv) If the information is too complex, adopt overly-simple hypotheses or strategies for solutions.
 (v) If there is no solution, if the problem is a trick and “right“ and “wrong“ is given at random, form hypotheses about coincidental relationships they observed. Causality is always found.
 
-**25. Ideological immunity, or the planck problem**
+**25. "Ideological immunity, or the planck problem"**
 “immunity“ built up against new ideas by confidence in the own fundamental paradigm.
 David Perkins: The more confirmation one found for his ideology (remember 24 (i) and (ii) – not seeking for counter-evidence) the less apt he is to change his opinion.
 The higher the IQ (measured by a standard IQ test) the more reasons are given to defend the own point of view and the lower the probability to consider alternatives.
 
-**26. Argument from adverse consequences**
+**26. "Argument from adverse consequences"**
 (a) “The defendant in a widely publicized murder trial must be found guilty; otherwise, it will be an encouragement for other men to murder their wives.”
 
-**27. Special pleading**
+**27. "Special pleading"**
 Often to rescue a deep rhetorical trouble
 (a) “How could God permit the followers of Judaism, Christianity, and Islam – each in their own way enjoined to heroic measures of loving kindness and compassion – to have perpetrated so much cruelty for so long?“ - “You don't understand Free Will. God moves in mysterious ways.“
 
-**28. Statistics of small numbers**
+**28. "Statistics of small numbers"**
 (a) “They say 1 out of every 5 people is Chinese. How is this possible? I know hundreds of people, and none of them is Chinese.“
 
-**29. Misunderstanding of the nature of statistics; confusion of correlation and causation; post hoc, ergo propter hoc (it happened after, so it was caused by)**
+**29. "Misunderstanding of the nature of statistics; confusion of correlation and causation; post hoc, ergo propter hoc (it happened after, so it was caused by)"**
 (a) President Dwight Eisenhower expressing astonishment and alarm on discovering that fully half of all Americans have below average intelligence.
 (b) A survey shows that more college graduates are homosexual than those with lesser education; therefore education makes people gay.
 (c) Before women got the vote, there were no nuclear weapons.
 
-**30. Inconsistency**
+**30. "Inconsistency"**
 (a) Attributing the declining life expectancy in the former Soviet Union to the failures of communism many years ago, but never attributing the high infant mortality in the United States to the failures of capitalism.
 (b) People using this Baloney Detection Kit to point out the flaws in other people's thinking but not using it to check their own beliefs.
 
-**31. Non sequitur (it does not follow)**
+**31. "Non sequitur (it does not follow)"**
 (a) “Our nation will prevail because God is great.“
 
-**32. Meaningless question**
+**32. "Meaningless question"**
 (a) What happens when an irresistible force meets an immovable object?
 If there is an irresistible force there cannot be an immovable object and vice versa.
 
-**33. Straw man**
+**33. "Straw man"**
 caricaturing a position to make it easier to attack
 (a) Scientists suppose that living things simply fell together by chance.
 This formulation willfully ignores the central Darwinian insight, that Nature ratchets up by saving what works and discarding what doesn't.
 (b) Environmentalists care more for snail darters and spotted owls than they do for people.
 
-**34. Suppressed evidence, half-truths**
+**34. "Suppressed evidence, half-truths"**
 (a) “An amazingly and widely quoted 'prophecy' of the assassination attempt on President Reagan is shown on television.“
 A detail is missing: was it recorded before or after the event?
 (b) “These government abuses demand revolution even if you can't make an omelette without breaking some eggs.“
 Is this likely to be a revolution in which far more people are killed than under the previous regime? What does the experience of other revolutions suggest? Are all revolutions against oppressive regimes desirable and in the interests of the people?
 
-**35. Weasel words**
+**35. "Weasel words"**
 (a) The United States may not conduct a war without a declaration by Congress. Therefore other words are used:
 police actions, armed incursions, protective reaction strikes, pacification, safeguarding American interests, operations
 Talleyrand: “An important art of politicians is to find new names for institutions which under old names have become odious to the public.“
@@ -266,4 +266,3 @@ Is there another theory that explains the data which the theory of evolution exp
 **10. Are personal beliefs driving the claim?**
 Somebody who is pro business: “Global warming does not happen.“, “Humans are not responsible for global warming.“
 Somebody who believes in God: “The different species were created and did not evolve.“
-
