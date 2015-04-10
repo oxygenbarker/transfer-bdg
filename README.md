@@ -80,23 +80,23 @@ What are the chances that this happens? It will happen sometimes. In addition we
 Aristotle: "The sum of coincidences equals certainty.[1]"
 (a) Psychics make hundreds of predictions for the next year and a few will hit because of probability. Then they only communicate the hits or we will only remember the hits and emphasize them more.[1]
 
-**15. "Emotive words and false analogies"**
-Motherhood, America, integrity, honesty might invoke positive reactions, words like rape, cancer, evil, communist might lead to negative reactions.
-(a) „The cancer of society,“ „raping the environment,“ Memes, ...
-The thinking can be clouded by this.
+**15. "Emotive Words and False Analogies[1]"**
+Motherhood, America, integrity, honesty might invoke positive reactions, words like rape, cancer, evil, communist might lead to negative reactions.[1]
+(a) "The cancer of society,[1]" "raping the environment,[1]" Memes, ...
+The thinking can be clouded by this.[1]
 
-**16. "Appeal to ignorance"**
-(a) If you cannot prove that there isn't any psychic power, then there must be.
-(b) If you cannot prove that Santa Claus does not exist, then he must exist.
-(c) If you cannot prove that Santa Claus exists, then he must not exist.
-In science, believe should come from positive evidence in support of a claim, not lack of evidence for OR against it.
+**16. "appeal to ignorance[2]"**
+(a) "[I]f you cannot prove that there isn't any psychic power, then there must be.[1]"
+(b) "[I]f you cannot prove that Santa Claus does not exist, then he must exist.[1]"
+(c) "If you cannot prove Santa Claus exists, then he must not exist.[1]"
+"In science, believe should come from positive evidence in support of a claim, not lack of evidence for [OR] against [it].[1]"
 
 **17. "Ad hominem and tu quoque"**
-Literally “to the man“ and “you also“.
-Fallacy to redirect focus from thinking about the idea to thinking about the person holding the idea.
-(a) Responding to somebody saying: “Hitler did not have a master plan for the Extermination of the European Jewry“ with “You are a neo-Nazi and an anti-Semite“ does not refute the argument. Whether Hitler had a master plan is a question that can be settled historically.
+"Literally 'to the man' and 'you also'[...][1]"
+"[F]allacy to redirect the focus from thinking about the idea to thinking about the person holding the idea.[1]"
+(a) Responding to somebody saying: "Hitler did not have a master plan for the Extermination of the European Jewry [...][1]" with “You are a neo-Nazi and an anti-Semite“ does not refute the argument.[1] "Whether Hitler had a master plan is a question that can be settled historically.[1]"
 (b) T. Colin Campbell (author of “The China Study” answering the critical analysis of his book, don't confuse with the real study “Diet, Life-Style, and Mortality in China”): “She claims to have no biases – either for or against – but nonetheless liberally uses adjectives and cutesy expressions that leaves me wondering.” [3]
-(c) “You cheat on taxes!“ - „So do you!“ is not a proof in one way or another.
+(c) “You cheat on taxes!“ - „So do you!“ is not a proof in one way or another.[1]
 
 **18. "Hasty generalization"**
 Prejudice, drawing conclusions before the facts warrant it
