@@ -8,6 +8,7 @@
 - [5] L. Ron Hubbard: DIANETICS THE MODERN SCIENCE OF MENTAL HEALTH http://projectavalon.net/DMSMH.PDF page 5
 - [6] Martin Gardner: Fads and Fallacies in the Name of Science, New York: Dover, 1952
 - [7] James Randi taking homeopathic sleeping pills: https://www.youtube.com/watch?v=sCYvOgBaEY8 and https://www.youtube.com/watch?v=c0Z7KeNCi7g
+- [not used so far] Michael Shermer: Baloney Detection Kit ( https://www.youtube.com/watch?v=aNSHZG9blQQ ) - transcription of the video
 - a few own examples
 
 "The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true. [2]"
@@ -91,30 +92,30 @@ The thinking can be clouded by this.[1]
 (c) "If you cannot prove Santa Claus exists, then he must not exist.[1]"
 "In science, believe should come from positive evidence in support of a claim, not lack of evidence for [OR] against [it].[1]"
 
-**17. "Ad hominem and tu quoque"**
+**17. "Ad Hominem and Tu Quoque[1]"**
 "Literally 'to the man' and 'you also'[...][1]"
 "[F]allacy to redirect the focus from thinking about the idea to thinking about the person holding the idea.[1]"
 (a) Responding to somebody saying: "Hitler did not have a master plan for the Extermination of the European Jewry [...][1]" with “You are a neo-Nazi and an anti-Semite“ does not refute the argument.[1] "Whether Hitler had a master plan is a question that can be settled historically.[1]"
 (b) T. Colin Campbell (author of “The China Study” answering the critical analysis of his book, don't confuse with the real study “Diet, Life-Style, and Mortality in China”): “She claims to have no biases – either for or against – but nonetheless liberally uses adjectives and cutesy expressions that leaves me wondering.” [3]
 (c) “You cheat on taxes!“ - „So do you!“ is not a proof in one way or another.[1]
 
-**18. "Hasty generalization"**
-Prejudice, drawing conclusions before the facts warrant it
-(a) A couple of bad teachers mean a bad school.
-(b) A few bad cars mean that the brand of the automobiles is unreliable.
-(c) A handful of members of a group are used to judge the entire group.
+**18. "Hasty Generalization[1]"**
+Prejudice, drawing conclusions before the facts warrant it[1]
+(a) "A couple of bad teachers mean a bad school.[1]"
+(b) "A few bad cars mean that brand of automobile is unreliable.[1]"
+(c) "A handful of members of a group are used to judge the entire group.[1]"
 
-**19. "Over-reliance on authorities"**
+**19. "Overreliance on Authorities[1]"**
 (a) If Einstein says that the world is flat he must be right.
 (b) If a homeless person tells us that our lifestyle of consumption will lead to severe problems with nature he is wrong or jealous.
-Examine the evidence instead of the status of the speaker!
+Examine the evidence instead of the status of the speaker![1]
 
-**20. "Either-or (Fallacy of negation, false dilemma) and excluded middle"**
-(a) Creationists say: „Life was either divinely created or evolved.“
-It is not enough to discredit another theory. If your theory is superior it must explain the „normal“ data explained by the old theory plus the „anomalous“ data the old theory was not able to explain.
-(b) Either you love your country or you hate it.
-(c) If you're not part of the solution, you're part of the problem.
-(d) Special case short-term vs. Long-term: „We can't afford programs to feed malnourished children and educate pre-school kids. We need to urgently deal with crime on the streets.“
+**20. "Either-Or[1]" (fallacy of negation, false dilemma) and "excluded middle[2]"**
+(a) Creationists say: „[L]ife either was divinely created or evolved.[1](changed from italic to normal font)"
+It is not enough to discredit another theory. If your theory is superior it must explain the normal data explained by the old theory plus the anomalous data the old theory was not able to explain.[1]
+(b) "Either you love your country or you hate it.[2]"
+(c) "If you're not part of the solution, you're part of the problem.[2]"
+(d) Special case short-term vs. long-term: "We can't afford programs to feed malnourished children and educate pre-school kids. We need to urgently deal with crime on the streets.[2](changed from italic to normal font)"
 
 **21. "Circular reasoning (Fallacy of redundancy, tautology) and begging the question"**
 (a) “Is there a God?“ - “Yes.“ - “How do you know?“ - “Because the bible says so.“ - “How do you know the Bible is correct?“ - “Because it was inspired by God.“ = “God is because God is.“
