@@ -117,12 +117,12 @@ It is not enough to discredit another theory. If your theory is superior it must
 (c) "If you're not part of the solution, you're part of the problem.[2]"
 (d) Special case short-term vs. long-term: "We can't afford programs to feed malnourished children and educate pre-school kids. We need to urgently deal with crime on the streets.[2](changed from italic to normal font)"
 
-**21. "Circular reasoning (Fallacy of redundancy, tautology) and begging the question"**
-(a) “Is there a God?“ - “Yes.“ - “How do you know?“ - “Because the bible says so.“ - “How do you know the Bible is correct?“ - “Because it was inspired by God.“ = “God is because God is.“
-(b) “What is gravity?“ - “The tendency for objects to be attracted to one another.“ - “Why are objects attracted to one another?“ - “Gravity.“ = “Gravity is because gravity is.“
-A tautological operational definition can still be useful, but we should try to construct operational definitions that can be tested, falsified, and refuted.
-(c) “We must institute the death penalty to discourage violent crime.”
-Does the violent crime rate in fact fall when the death penalty is imposed? Independent evidence?
+**21. "Circular Reasoning" ("fallacy of redundancy[1] (changed from italic to normal font)", "tautology[1] (changed from italic to normal font)") "and begging the question[1] (changed from italic to normal font)""**
+(a) "Is there a God? Yes. - How do you know? - “Because the Bible says so. - How do you know the Bible is correct? - Because it was inspired by God.[1] (changed from italic to normal font, added hyphens)" = "God is because God is.[1]"
+(b) "What is gravity? - The tendency for objects to be attracted to one another. - Why are objects attracted to one another? - Gravity.[1] (changed from italic to normal font, added hyphens)" = "[G]ravity is because gravity is.[1]"
+"[A] tautological operational definition can still be useful [...] but we must try to construct operational definitions that can be tested, falsified, and refuted.[1]"
+(c) "We must institute the death penalty to discourage violent crime.[2](changed from italic to normal font)"
+"But does the violent crime rate in fact fall when the death penalty is imposed?[2]" Independent evidence?[2]
 
 **22. "Reductio ad absurdum and the slippery slope"**
 (a) “Eating Ben & Jerry's ice cream will cause you put on weight. Putting on weight will make you overweight. Soon you will weigh 350 pounds and die of heart disease. Eating Ben & Jerry's ice cream leads to death. Don't even try it.“ Eating one scoop could contribute to overweight but the consequences do not necessarily follow from the premise.
