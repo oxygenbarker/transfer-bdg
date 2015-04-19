@@ -124,18 +124,18 @@ It is not enough to discredit another theory. If your theory is superior it must
 (c) "We must institute the death penalty to discourage violent crime.[2](changed from italic to normal font)"
 "But does the violent crime rate in fact fall when the death penalty is imposed?[2]" Independent evidence?[2]
 
-**22. "Reductio ad absurdum and the slippery slope"**
-(a) “Eating Ben & Jerry's ice cream will cause you put on weight. Putting on weight will make you overweight. Soon you will weigh 350 pounds and die of heart disease. Eating Ben & Jerry's ice cream leads to death. Don't even try it.“ Eating one scoop could contribute to overweight but the consequences do not necessarily follow from the premise.
-Slippery slope = don't even take the first step because it ultimately leads to an extreme end.
-Reductio ad absurdum = refutation of an argument by carrying the argument to it's logical end and so reducing it to an absurd conclusion.
-(b) If the state prohibits abortion even in the ninth month, it will soon be telling us what to do with our bodies around the time of conception.
+**22. "Reductio ad Absurdum and the Slippery Slope [1]"**
+(a) "Eating Ben & Jerry's ice cream will cause you put on weight. Putting on weight will make you overweight. Soon you will weigh 350 pounds and die of heart disease. Eating Ben & Jerry's ice cream leads to death. Don't even try it.[1](changed from italic to normal font)" Eating one scoop could contribute to overweight but the consequences do not necessarily follow from the premise.[1]
+Slippery slope = don't even take the first step because it ultimately leads to an extreme end.[1]
+Reductio ad absurdum = "refutation of an argument by carrying the argument to it's logical end and so reducing it to an absurd conclusion.[1]"
+(b) "If the state prohibits abortion even in the ninth month, it will soon be telling us what to do with our bodies around the time of conception.[2](changed from italic to normal font)"
 
-**23. "Effort inadequacies and the need for certainty, control, and simplicity"**
-Uncertainties lead the mind to look for explanations.
-Most of us are looking for easy explanations but this can lead to oversimplification.
-(a) “People do steal because of their bad genes.“
-(b) “He does not like me because he is bad.“
-(c) “He was raised to dislike certain people.“
+**23. "Effort Inadequacies and the Need for Certainty, Control, and Simplicity"**
+"[U]ncertainties lead the mind to look for explanations [...][1]"
+Most of us are looking for easy explanations but this can lead to oversimplification.[1]
+(a) People do steal because of their bad genes.
+(b) He does not like me because he is bad.
+(c) He was raised to dislike certain people.
 
 **24. "Problem-solving inadequacies (confirmation bias)"**
 People tend to
