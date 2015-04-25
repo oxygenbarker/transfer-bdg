@@ -130,25 +130,25 @@ Slippery slope = don't even take the first step because it ultimately leads to a
 Reductio ad absurdum = "refutation of an argument by carrying the argument to it's logical end and so reducing it to an absurd conclusion.[1]"
 (b) "If the state prohibits abortion even in the ninth month, it will soon be telling us what to do with our bodies around the time of conception.[2](changed from italic to normal font)"
 
-**23. "Effort Inadequacies and the Need for Certainty, Control, and Simplicity"**
+**23. "Effort Inadequacies and the Need for Certainty, Control, and Simplicity [1]"**
 "[U]ncertainties lead the mind to look for explanations [...][1]"
 Most of us are looking for easy explanations but this can lead to oversimplification.[1]
 (a) People do steal because of their bad genes.
 (b) He does not like me because he is bad.
 (c) He was raised to dislike certain people.
 
-**24. "Problem-solving inadequacies (confirmation bias)"**
+**24. "Problem-Solving Inadequacies [1]" (confirmation bias)"**
 People tend to
-(i) Immediately form a hypothesis and look only for examples to confirm it.
-(ii) Do not seek evidence to disprove the hypothesis.
-(iii) Are very slow to change the hypothesis even when it is obviously wrong.
-(iv) If the information is too complex, adopt overly-simple hypotheses or strategies for solutions.
-(v) If there is no solution, if the problem is a trick and “right“ and “wrong“ is given at random, form hypotheses about coincidental relationships they observed. Causality is always found.
+(i) "Immediately form a hypothesis and look only for examples to confirm it.[1]"
+(ii) "Do not seek evidence to disprove the hypothesis.[1]"
+(iii) "Are very slow to change the hypothesis even when it is obviously wrong.[1]"
+(iv) "If the information is too complex, adopt overly-simple hypotheses or strategies for solutions.[1]"
+(v) "If there is no solution, if the problem is a trick and “right“ and “wrong“ is given at random, form hypotheses about coincidental relationships they observed. Causality is always found.[1]"
 
-**25. "Ideological immunity, or the planck problem"**
-“immunity“ built up against new ideas by confidence in the own fundamental paradigm.
-David Perkins: The more confirmation one found for his ideology (remember 24 (i) and (ii) – not seeking for counter-evidence) the less apt he is to change his opinion.
-The higher the IQ (measured by a standard IQ test) the more reasons are given to defend the own point of view and the lower the probability to consider alternatives.
+**25. "Ideological Immunity, or the Planck Problem [1]"**
+immunity built up against new ideas by confidence in the own fundamental paradigm.[1]
+David Perkins: The more confirmation one found for his ideology (remember 24 (i) and (ii) – not seeking for counter-evidence) the less apt he is to change his opinion.[1]
+The higher the IQ (measured by a standard IQ test) the more reasons are given to defend the own point of view and the lower the probability to consider alternatives.[1]
 
 **26. "Argument from adverse consequences"**
 (a) “The defendant in a widely publicized murder trial must be found guilty; otherwise, it will be an encouragement for other men to murder their wives.”
