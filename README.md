@@ -150,15 +150,15 @@ immunity built up against new ideas by confidence in the own fundamental paradig
 David Perkins: The more confirmation one found for his ideology (remember 24 (i) and (ii) – not seeking for counter-evidence) the less apt he is to change his opinion.[1]
 The higher the IQ (measured by a standard IQ test) the more reasons are given to defend the own point of view and the lower the probability to consider alternatives.[1]
 
-**26. "Argument from adverse consequences"**
-(a) “The defendant in a widely publicized murder trial must be found guilty; otherwise, it will be an encouragement for other men to murder their wives.”
+**26. "argument from adverse consequences [2]"**
+(a) "The defendant in a widely publicized murder trial must be found guilty; otherwise, it will be an encouragement for other men to murder their wives [...][2](changed from italic to normal font)"
 
-**27. "Special pleading"**
-Often to rescue a deep rhetorical trouble
-(a) “How could God permit the followers of Judaism, Christianity, and Islam – each in their own way enjoined to heroic measures of loving kindness and compassion – to have perpetrated so much cruelty for so long?“ - “You don't understand Free Will. God moves in mysterious ways.“
+**27. "special pleading [2]"**
+Often to rescue a deep rhetorical trouble[2]
+(a) "How could God permit the followers of Judaism, Christianity, and Islam – each in their own way enjoined to heroic measures of loving kindness and compassion – to have perpetrated so much cruelty for so long? - [...] You don't understand Free Will [...] God moves in mysterious ways.[2](changed from italic to normal font, added - as indication for a change of the speaker)"
 
-**28. "Statistics of small numbers"**
-(a) “They say 1 out of every 5 people is Chinese. How is this possible? I know hundreds of people, and none of them is Chinese.“
+**28. "statistics of small numbers [2]"**
+(a) "They say 1 out of every 5 people is Chinese. How is this possible? I know hundreds of people, and none of them is Chinese.[2](changed from italic to normal font)"
 
 **29. "Misunderstanding of the nature of statistics; confusion of correlation and causation; post hoc, ergo propter hoc (it happened after, so it was caused by)"**
 (a) President Dwight Eisenhower expressing astonishment and alarm on discovering that fully half of all Americans have below average intelligence.
