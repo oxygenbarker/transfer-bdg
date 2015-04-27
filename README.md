@@ -160,10 +160,10 @@ Often to rescue a deep rhetorical trouble[2]
 **28. "statistics of small numbers [2]"**
 (a) "They say 1 out of every 5 people is Chinese. How is this possible? I know hundreds of people, and none of them is Chinese.[2](changed from italic to normal font)"
 
-**29. "Misunderstanding of the nature of statistics; confusion of correlation and causation; post hoc, ergo propter hoc (it happened after, so it was caused by)"**
-(a) President Dwight Eisenhower expressing astonishment and alarm on discovering that fully half of all Americans have below average intelligence.
-(b) A survey shows that more college graduates are homosexual than those with lesser education; therefore education makes people gay.
-(c) Before women got the vote, there were no nuclear weapons.
+**29. "misunderstanding of the nature of statistics[2]"; "confusion of correlation and causation[2]"; "post hoc, ergo propter hoc[2](changed from italic to normal font)" ("It happened after, so it was caused by[2]")**
+(a) "President Dwight Eisenhower expressing astonishment and alarm on discovering that fully half of all Americans have below average intelligence[2](changed from italic to normal font)"
+(b) "A survey shows that more college graduates are homosexual than those with lesser education; therefore education makes people gay.[2](changed from italic to normal font)"
+(c) "Before women got the vote, there were no nuclear weapons.[2](changed from italic to normal font)"
 
 **30. "Inconsistency"**
 (a) Attributing the declining life expectancy in the former Soviet Union to the failures of communism many years ago, but never attributing the high infant mortality in the United States to the failures of capitalism.
