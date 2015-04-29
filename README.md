@@ -165,12 +165,12 @@ Often to rescue a deep rhetorical trouble[2]
 (b) "A survey shows that more college graduates are homosexual than those with lesser education; therefore education makes people gay.[2](changed from italic to normal font)"
 (c) "Before women got the vote, there were no nuclear weapons.[2](changed from italic to normal font)"
 
-**30. "Inconsistency"**
-(a) Attributing the declining life expectancy in the former Soviet Union to the failures of communism many years ago, but never attributing the high infant mortality in the United States to the failures of capitalism.
+**30. "inconsistency [2]"**
+(a) "Attribut[ing] the declining life expectancy in the former Soviet Union to the failures of communism many years ago, but never attribut[ing] the high infant mortality in the United States [...] to the failures of capitalism.[2](changed from italic to normal font)"
 (b) People using this Baloney Detection Kit to point out the flaws in other people's thinking but not using it to check their own beliefs.
 
-**31. "Non sequitur (it does not follow)"**
-(a) “Our nation will prevail because God is great.“
+**31. "non sequitur" [2](changed from italic to normal font)("it does not follow [2]")**
+(a) "Our nation will prevail because God is great. [2](changed from italic to normal font)"
 
 **32. "Meaningless question"**
 (a) What happens when an irresistible force meets an immovable object?
