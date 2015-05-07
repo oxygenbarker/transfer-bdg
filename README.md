@@ -172,15 +172,15 @@ Often to rescue a deep rhetorical trouble[2]
 **31. "non sequitur" [2](changed from italic to normal font)("it does not follow [2]")**
 (a) "Our nation will prevail because God is great. [2](changed from italic to normal font)"
 
-**32. "Meaningless question"**
-(a) What happens when an irresistible force meets an immovable object?
-If there is an irresistible force there cannot be an immovable object and vice versa.
+**32. "neaningless question [2]"**
+(a) "What happens when an irresistible force meets an immovable object? [2](changed from italic to normal font)"
+If there is an irresistible force there cannot be an immovable object and vice versa.[2]
 
-**33. "Straw man"**
-caricaturing a position to make it easier to attack
-(a) Scientists suppose that living things simply fell together by chance.
-This formulation willfully ignores the central Darwinian insight, that Nature ratchets up by saving what works and discarding what doesn't.
-(b) Environmentalists care more for snail darters and spotted owls than they do for people.
+**33. "straw man [2]"**
+"caricaturing a position to make it easier to attack [2]"
+(a) "Scientists suppose that living things simply fell together by chance. [2](changed from italic to normal font)"
+"[This] formulation [...] willfully ignores the central Darwinian insight, that Nature ratchets up by saving what works and discarding what doesn't. [2]"
+(b) "[E]nvironmentalists care more for snail darters and spotted owls than they do for people. [2](changed from italic to normal font)"
 
 **34. "Suppressed evidence, half-truths"**
 (a) “An amazingly and widely quoted 'prophecy' of the assassination attempt on President Reagan is shown on television.“
