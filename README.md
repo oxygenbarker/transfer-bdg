@@ -172,7 +172,7 @@ Often to rescue a deep rhetorical trouble[2]
 **31. "non sequitur" [2](changed from italic to normal font)("it does not follow [2]")**
 (a) "Our nation will prevail because God is great. [2](changed from italic to normal font)"
 
-**32. "neaningless question [2]"**
+**32. "meaningless question [2]"**
 (a) "What happens when an irresistible force meets an immovable object? [2](changed from italic to normal font)"
 If there is an irresistible force there cannot be an immovable object and vice versa.[2]
 
