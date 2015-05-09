@@ -182,16 +182,16 @@ If there is an irresistible force there cannot be an immovable object and vice v
 "[This] formulation [...] willfully ignores the central Darwinian insight, that Nature ratchets up by saving what works and discarding what doesn't. [2]"
 (b) "[E]nvironmentalists care more for snail darters and spotted owls than they do for people. [2](changed from italic to normal font)"
 
-**34. "Suppressed evidence, half-truths"**
-(a) “An amazingly and widely quoted 'prophecy' of the assassination attempt on President Reagan is shown on television.“
-A detail is missing: was it recorded before or after the event?
-(b) “These government abuses demand revolution even if you can't make an omelette without breaking some eggs.“
-Is this likely to be a revolution in which far more people are killed than under the previous regime? What does the experience of other revolutions suggest? Are all revolutions against oppressive regimes desirable and in the interests of the people?
+**34. "suppressed evidence, or half-truths [2]"**
+(a) "An amazingly accurate and widely quoted 'prophecy' of the assassination attempt on President Reagan is shown on television [...] [2](changed from italic to normal font)"
+A detail is missing:[2] "was it recorded before or after the event?[2]"
+(b) "These government abuses demand revolution even if you can't make an omelette without breaking some eggs. [2](changed from italic to normal font)"
+"[I]s this likely to be a revolution in which far more people are killed than under the previous regime? What does the experience of other revolutions suggest? Are all revolutions against oppressive regimes desirable and in the interests of the people? [2]"
 
-**35. "Weasel words"**
-(a) The United States may not conduct a war without a declaration by Congress. Therefore other words are used:
-police actions, armed incursions, protective reaction strikes, pacification, safeguarding American interests, operations
-Talleyrand: “An important art of politicians is to find new names for institutions which under old names have become odious to the public.“
+**35. "weasel words [2]"**
+(a) "[T]he United States may not conduct a war without a declaration by Congress. [2]" Therefore other words are used:
+police actions, armed incursions, protective reaction strikes, pacification, safeguarding American interests, operations [2]
+Talleyrand: "An important art of politicians is to find new names for institutions which under old names have become odious to the public. [2]"
 
 
 
