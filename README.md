@@ -196,17 +196,17 @@ Talleyrand: "An important art of politicians is to find new names for institutio
 
 
 #### Good practices (what you should do):
-**A.** Independent confirmation of the “facts“ whenever possible
+**A.** Independent confirmation of the “facts“ whenever possible[2]
 Make it more unlikely that something else is/was going on.
 
-**B.** Encourage debate on the evidence
+**B.** Encourage substantive debate on the evidence[2]
 Knowledgeable proponents of all points of view should participate so you get different explanations. Compare with C.
 
-**C.** Spin more than one hypothesis
-If there is something to be explained, think of all the different ways in which it could be explained. Then think of tests how to disprove each of the alternatives. What remains , meaning resists disproof, has a much better chance of being the right answer than just running with the first idea.
+**C.** "Spin more than one hypothesis"[2]
+"If there's something to be explained, think of all the different ways in which it could be explained. Then think of tests how to disprove each of the alternatives.[2](changed from italic to normal font)" What remains, meaning resists disproof, has a much better chance of being the right answer than just running with the first idea.[2]
 
-**D.** Try not to get overly attached to a hypothesis just because it's yours
-It's only a way station in the pursuit of knowledge. Ask yourself, why you like the idea. See if you find reasons for rejecting it. If you don't, others will.
+**D.** "Try not to get overly attached to a hypothesis just because it's yours[2]
+"It's only a way station in the pursuit of knowledge. Ask yourself, why you like the idea. [...] See if you find reasons for rejecting it. If you don't, others will.[2]"
 
 **E.** Quantify
 If there is some measure, some numerical quantity attached to what you try to explain, it will be much easier to discriminate among competing hypotheses. Of course there are truths to be sought in the many qualitative issues we are obliged to confront, but finding them is more challenging.
