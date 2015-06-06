@@ -205,16 +205,16 @@ Knowledgeable proponents of all points of view should participate so you get dif
 **C.** "Spin more than one hypothesis"[2]
 "If there's something to be explained, think of all the different ways in which it could be explained. Then think of tests how to disprove each of the alternatives.[2](changed from italic to normal font)" What remains, meaning resists disproof, has a much better chance of being the right answer than just running with the first idea.[2]
 
-**D.** "Try not to get overly attached to a hypothesis just because it's yours[2]
+**D.** "Try not to get overly attached to a hypothesis just because it's yours"[2]
 "It's only a way station in the pursuit of knowledge. Ask yourself, why you like the idea. [...] See if you find reasons for rejecting it. If you don't, others will.[2]"
 
-**E.** Quantify
-If there is some measure, some numerical quantity attached to what you try to explain, it will be much easier to discriminate among competing hypotheses. Of course there are truths to be sought in the many qualitative issues we are obliged to confront, but finding them is more challenging.
+**E.** "Quantify"[2]
+"If whatever it is you're explaining has some measure, some numerical quantity attached to it, you'll be much better able to discriminate among competing hypotheses. [...] Of course there are truths to be sought in the many qualitative issues we are obliged to confront, but finding them is more challenging. [2](changed from italic to normal font)"
 
-**F.** Every link of a chain argument has to work
-This includes the premise! It is not enough if most of the links work if you want to conclude anything from it.
+**F.** Every link of a chain argument has to work [2]
+This includes the premise! It is not enough if most of the links work if you want to conclude anything from it. [2]
 
-**G.** Occam's Razor
+**G.** "Occam's Razor"[2]
 Rule-of-thumb: If there are two hypotheses explaining the data equally well, choose the simpler one.
 Simpler here means less assumptions and less unproven assumptions. Don't confuse with “easy explanations” which often make the greatest assumptions!
 (a) The hypothesis that everything in the universe is moving and turning around the earth makes the derivation of physical laws (planetary orbits moving in relation to the earth) much more complicated than if the earth is only one part and also moving.
