@@ -215,22 +215,22 @@ Knowledgeable proponents of all points of view should participate so you get dif
 This includes the premise! It is not enough if most of the links work if you want to conclude anything from it. [2]
 
 **G.** "Occam's Razor"[2]
-Rule-of-thumb: If there are two hypotheses explaining the data equally well, choose the simpler one.
+Rule-of-thumb: If there are two hypotheses explaining the data equally well, choose the simpler one.[2]
 Simpler here means less assumptions and less unproven assumptions. Don't confuse with “easy explanations” which often make the greatest assumptions!
 (a) The hypothesis that everything in the universe is moving and turning around the earth makes the derivation of physical laws (planetary orbits moving in relation to the earth) much more complicated than if the earth is only one part and also moving.
 (b) Healing people works by laying on of hands.
 
-**H.** Always ask if the hypothesis at least in principle can be falsified
-Inveterate skeptics must be given the chance to follow your reasoning, to duplicate your experiments and to see if they get the same result. Proportions that are untestable, unfalsifiable are not worth much.
+**H.** Always ask if the hypothesis at least in principle can be falsified [2]
+"Inveterate skeptics must be given the chance to follow your reasoning, to duplicate your experiments and to see if they get the same result.[2]" "Proportions that are untestable, unfalsifiable are not worth much.[2]"
 
 
-Like all tools the baloney detection [guidelines] can be misused, applied out of context, or even employed as a rote alternative to thinking. But applied judiciously, it can make all the difference in the world – not least in evaluating our own arguments before we present them to others.
+"Like all tools the baloney detection [guidelines] can be misused, applied out of context, or even employed as a rote alternative to thinking. But applied judiciously, it can make all the difference in the world – not least in evaluating our own arguments before we present them to others.[2]"
 
 
 ### Baloney Detection Guidelines - Short Version
 
 Source: Michael Shermer: Baloney Detection Kit
-( https://www.youtube.com/watch?v=aNSHZG9blQQ )
+( all of the following information is an excerpt from the transcript of this video: https://www.youtube.com/watch?v=aNSHZG9blQQ )
 
 **1. How reliable is the source?**
 Errors should be random and not all pointing in the same direction.
