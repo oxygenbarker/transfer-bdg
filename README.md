@@ -3,12 +3,12 @@
 #### Sources:
 - [1] Michael Shermer: Why People Believe Weird Things (Paperback edition 2002, ISBN 978-0-8050-7089-7, pages 46-60)
 - [2] Carl Sagan: The Demon-Haunted World (First Ballantine Books Edition 1997, ISBN 978-0-345-40946-1, pages 210-216)
-- [3] http://rawfoodsos.com/2010/07/07/the-china-study-fact-or-fallac/
+- [3] http://nutritionstudies.org/minger-critique/
 - [4] Weaver, J.H., ed. 1987. The World of Physics: A Small Library of the Literature of Physics from Antiquity to the Present, vol. 2, The Einstein Universe and the Bohr Atom. New York: Simon & Schuster
 - [5] L. Ron Hubbard: DIANETICS THE MODERN SCIENCE OF MENTAL HEALTH http://projectavalon.net/DMSMH.PDF page 5
 - [6] Martin Gardner: Fads and Fallacies in the Name of Science, New York: Dover, 1952
 - [7] James Randi taking homeopathic sleeping pills: https://www.youtube.com/watch?v=sCYvOgBaEY8 and https://www.youtube.com/watch?v=c0Z7KeNCi7g
-- [not used so far] Michael Shermer: Baloney Detection Kit ( https://www.youtube.com/watch?v=aNSHZG9blQQ ) - transcription of the video
+- [8] Michael Shermer: Baloney Detection Kit ( https://www.youtube.com/watch?v=aNSHZG9blQQ ) - transcription of the video
 - a few own examples
 
 "The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true. [2]"
@@ -96,7 +96,7 @@ The thinking can be clouded by this.[1]
 "Literally 'to the man' and 'you also'[...][1]"
 "[F]allacy to redirect the focus from thinking about the idea to thinking about the person holding the idea.[1]"
 (a) Responding to somebody saying: "Hitler did not have a master plan for the Extermination of the European Jewry [...][1]" with “You are a neo-Nazi and an anti-Semite“ does not refute the argument.[1] "Whether Hitler had a master plan is a question that can be settled historically.[1]"
-(b) T. Colin Campbell (author of “The China Study” answering the critical analysis of his book, don't confuse with the real study “Diet, Life-Style, and Mortality in China”): “She claims to have no biases – either for or against – but nonetheless liberally uses adjectives and cutesy expressions that leaves me wondering.” [3]
+(b) T. Colin Campbell (author of “The China Study” answering the critical analysis of his book, don't confuse with the real study “Diet, Life-Style, and Mortality in China”): “Not only does Denise misrepresent and misunderstand the rationale for the science in The China Study, her choice of words do not facilitate what she hopes to achieve. Her overall message, often embellished with adjectives and subjective remarks, appeals to some questionable characters sympathetic to or subservient to the Weston A Price Foundation, a farm lobbying group.” [3]
 (c) “You cheat on taxes!“ - „So do you!“ is not a proof in one way or another.[1]
 
 **18. "Hasty Generalization[1]"**
@@ -230,7 +230,7 @@ Simpler here means less assumptions and less unproven assumptions. Don't confuse
 ### Baloney Detection Guidelines - Short Version
 
 Source: Michael Shermer: Baloney Detection Kit
-( all of the following information is an excerpt from the transcript of this video: https://www.youtube.com/watch?v=aNSHZG9blQQ )
+( all of the following information is an excerpt from the transcript of his video [8] )
 
 **1. How reliable is the source?**
 Errors should be random and not all pointing in the same direction.
