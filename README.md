@@ -10,6 +10,10 @@
 - [7] James Randi taking homeopathic sleeping pills: https://www.youtube.com/watch?v=sCYvOgBaEY8 and https://www.youtube.com/watch?v=c0Z7KeNCi7g
 - [8] Michael Shermer: Baloney Detection Kit ( https://www.youtube.com/watch?v=aNSHZG9blQQ ) - transcription of the video
 - [9] Being Vegan - This is A Social Justice Issue: http://lasvegas.informermg.com/2013/03/02/being-vegan-this-is-a-social-justice-issue/
+- [10] Hitler on Ice: Did the Nazis Have a Secret Antarctic Fortress? http://mentalfloss.com/article/30249/hitler-ice-did-nazis-have-secret-antarctic-fortress
+- [11] David McRaney: You are not so smart (ISBN 978-1-101-54535-5)
+- [12] The movie "Earthlings" from 2005
+- [13]  CHEMTRAILS compiled by Dee Finney updated 5-1-14  http://www.greatdreams.com/chems.htm
 - a few own examples
 
 "The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true. [2]"
@@ -60,9 +64,13 @@ About 50 years of physics would have been proven wrong.[1] The experiment was no
 
 **9. "Rumors Do Not Equal Reality[1]"**
 (a) Urban legends, ... most of them were never confirmed.
+(b) The Nazis had a secret antarctic fortress. [10]
 
 **10. "Unexplained Is Not Inexplicable[1]"**
 (a) "An amateur archeologist declares that because he cannot figure out how the pyramids were built, they must have been constructed by space aliens.[1]"
+(b) Science cannot explain what happened before the big bang. Therefore it must have been God who did it.
+(c) Science does not have answers to everything. If I go to an energy healer because I have got a headache and afterwards the headache is gone, I know that it works. 
+(d) "Despite the fact that the plane is landing in foggy weather, the emission of chemtrails is unmistakable; their existence cannot be denied or explained-away by weather.  First, the trails are NOT coming from the back of the jet engines.  Second, the trails are not merely water trailing off the edges of the wings because as the plane passes, in addition to the wing trail emissions, there are clearly SPRAYS coming out of several sections at the rear of the wings in clear addition to any water that may be washing off the wing during landing. [13]"
 
 **11. "Failures Are Rationalized[1]"**
 Real scientists will admit errors, pseudoscientists will rationalize their failures.[1]
@@ -82,11 +90,13 @@ What are the chances that this happens? It will happen sometimes. In addition we
 **14. "Representativeness[1]"**
 Aristotle: "The sum of coincidences equals certainty.[1]"
 (a) Psychics make hundreds of predictions for the next year and a few will hit because of probability. Then they only communicate the hits or we will only remember the hits and emphasize them more.[1]
+(b) "Knowing a person’s history makes it easier to determine what sort of person they are. [Actually] You jump to conclusions based on how representative a person seems to be of a preconceived character type."[11]
 
 **15. "Emotive Words and False Analogies[1]"**
 Motherhood, America, integrity, honesty might invoke positive reactions, words like rape, cancer, evil, communist might lead to negative reactions.[1]
 (a) "The cancer of society,[1]" "raping the environment,[1]" Memes, ...
 The thinking can be clouded by this.[1]
+(b) "Fisherman often injure a few captive dolphins with a spear thrust or knife slash ... since dolphins never abandon wounded family members. Mothers and babies call out in distress as they are separated, hoisted up and dragged off ... soon to be mercilessly hacked to death. These are benign and innocent beings and they deserve better. [12]"
 
 **16. "appeal to ignorance[2]"**
 (a) "[I]f you cannot prove that there isn't any psychic power, then there must be.[1]"
