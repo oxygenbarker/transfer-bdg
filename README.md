@@ -70,7 +70,7 @@ About 50 years of physics would have been proven wrong.[1] The experiment was no
 (a) "An amateur archeologist declares that because he cannot figure out how the pyramids were built, they must have been constructed by space aliens.[1]"
 (b) Science cannot explain what happened before the big bang. Therefore it must have been God who did it.
 (c) Science does not have answers to everything. If I go to an energy healer because I have got a headache and afterwards the headache is gone, I know that it works. 
-(d) "Despite the fact that the plane is landing in foggy weather, the emission of chemtrails is unmistakable; their existence cannot be denied or explained-away by weather.  First, the trails are NOT coming from the back of the jet engines.  Second, the trails are not merely water trailing off the edges of the wings because as the plane passes, in addition to the wing trail emissions, there are clearly SPRAYS coming out of several sections at the rear of the wings in clear addition to any water that may be washing off the wing during landing. [13]"
+(d) "Feats such as the bending of spoons, firewalking, or mental telepathy are often thought to be of paranormal or mystical nature because most people cannot explain them. [...] Firewalking is a case in point. People speculate endlessly about supernatural powers over pain and heat, or mysterious brain chemicals that block the pain and prevent burning. The simple explanation is that the capacity of light and fluffy coals to contain heat is very low, and the conductivity of heat from the light and fluffy coals to your feet is very poor.[1]"
 
 **11. "Failures Are Rationalized[1]"**
 Real scientists will admit errors, pseudoscientists will rationalize their failures.[1]
@@ -103,6 +103,7 @@ The thinking can be clouded by this.[1]
 (b) "[I]f you cannot prove that Santa Claus does not exist, then he must exist.[1]"
 (c) "If you cannot prove Santa Claus exists, then he must not exist.[1]"
 "In science, believe should come from positive evidence in support of a claim, not lack of evidence for [OR] against [it].[1]"
+(d) "Despite the fact that the plane is landing in foggy weather, the emission of chemtrails is unmistakable; their existence cannot be denied or explained-away by weather.  First, the trails are NOT coming from the back of the jet engines.  Second, the trails are not merely water trailing off the edges of the wings because as the plane passes, in addition to the wing trail emissions, there are clearly SPRAYS coming out of several sections at the rear of the wings in clear addition to any water that may be washing off the wing during landing. [13]"
 
 **17. "Ad Hominem and Tu Quoque[1]"**
 "Literally 'to the man' and 'you also'[...][1]"
