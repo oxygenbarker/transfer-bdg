@@ -14,6 +14,7 @@
 - [11] David McRaney: You are not so smart (ISBN 978-1-101-54535-5)
 - [12] The movie "Earthlings" from 2005
 - [13]  CHEMTRAILS compiled by Dee Finney updated 5-1-14  http://www.greatdreams.com/chems.htm
+- [14] Carl Sagan: Broca's Brain: Reflections on the Romance of Science, 1979, ISBN 0-394-50169-1, page 64
 - a few own examples
 
 "The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true. [2]"
@@ -56,6 +57,7 @@ About 50 years of physics would have been proven wrong.[1] The experiment was no
 "They laughed at Copernicus [and] the Wright brothers.[1]" But still being laughed at does not make any ideas more valid.[1]
 (a) Wilhelm Reich: “Whatever you have done to me or will do to me in the future, whether you glorify me as a genius or put me in a mental institution, whether you adore me as your savior or hang me as a spy, sooner or later necessity will force you to comprehend that I have discovered the laws of the living.[6]“
 (b) Gary Smith (Sportswriter, Sports Illustrated): "150 years ago, they would have thought you were absurd if you advocated for the end of slavery. 100 years ago, they would have laughed at you for suggesting that women should have the right to vote. 50 years ago, they would object to the idea of African Americans receiving equal rights under the law. 25 years ago they would have called you a pervert if you advocated for gay rights. They laugh at us now for suggesting that animal slavery be ended. Some day they won't be laughing.[9]"
+(c) "They laughed at Columbus, they laughed at Fulton [...] But they also laughed at Bozo the Clown. [14]" 
 
 **8. "Burden Of Proof[1]"**
 "The person making the extraordinary claim has the burden of proving to the experts and to the community at large that his or her belief has more validity than the one almost everyone else accepts.[1]"
