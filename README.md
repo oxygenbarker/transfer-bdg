@@ -14,7 +14,7 @@
 - [11] David McRaney: You are not so smart (ISBN 978-1-101-54535-5)
 - [12] The movie "Earthlings" from 2005
 - [13]  CHEMTRAILS compiled by Dee Finney updated 5-1-14  http://www.greatdreams.com/chems.htm
-- [14] Carl Sagan: Broca's Brain: Reflections on the Romance of Science, 1979, ISBN 0-394-50169-1, page 64
+- [14] Carl Sagan: Broca's Brain: Reflections on the Romance of Science (1979, ISBN 0-394-50169-1, page 64)
 - a few own examples
 
 "The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true. [2]"
