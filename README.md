@@ -13,8 +13,12 @@
 - [10] Hitler on Ice: Did the Nazis Have a Secret Antarctic Fortress? http://mentalfloss.com/article/30249/hitler-ice-did-nazis-have-secret-antarctic-fortress
 - [11] David McRaney: You are not so smart (ISBN 978-1-101-54535-5)
 - [12] The movie "Earthlings" from 2005
-- [13]  CHEMTRAILS compiled by Dee Finney updated 5-1-14  http://www.greatdreams.com/chems.htm
+- [13] CHEMTRAILS compiled by Dee Finney updated 5-1-14  http://www.greatdreams.com/chems.htm
 - [14] Carl Sagan: Broca's Brain: Reflections on the Romance of Science (1979, ISBN 0-394-50169-1, page 64)
+- [15] Dorothy Stimson: The Gradual Acceptance of the Copernican Theory of the Universe, 1917, p.48, http://www.gutenberg.org/files/35744/35744-h/35744-h.htm
+- [16] http://content.time.com/time/specials/2007/article/0,28804,1658545_1657686,00.html
+- [17] http://www.logicallyfallacious.com/index.php/logical-fallacies/164-special-pleading
+- [18] https://prezi.com/z425s00sshsd/logical-fallacies-statistics-of-small-numbers/
 - a few own examples
 
 "The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true. [2]"
@@ -164,16 +168,22 @@ People tend to
 immunity built up against new ideas by confidence in the own fundamental paradigm.[1]
 David Perkins: The more confirmation one found for his ideology (remember 24 (i) and (ii) – not seeking for counter-evidence) the less apt he is to change his opinion.[1]
 The higher the IQ (measured by a standard IQ test) the more reasons are given to defend the own point of view and the lower the probability to consider alternatives.[1]
+(a) It took a long time until the Copernican heliocentrism was really starting to get accepted. [15]
+(b) The idea to put horse heads in front of early cars to help them get accepted easier. [16]
 
 **26. "argument from adverse consequences [2]"**
 (a) "The defendant in a widely publicized murder trial must be found guilty; otherwise, it will be an encouragement for other men to murder their wives [...][2](changed from italic to normal font)"
+(b) "A God meting out punishment and reward must exist, because if He didn't, society would be much more lawless and dangerous [...][2](changed from italic to normal font)"
 
 **27. "special pleading [2]"**
 Often to rescue a deep rhetorical trouble[2]
 (a) "How could God permit the followers of Judaism, Christianity, and Islam – each in their own way enjoined to heroic measures of loving kindness and compassion – to have perpetrated so much cruelty for so long? - [...] You don't understand Free Will [...] God moves in mysterious ways.[2](changed from italic to normal font, added - as indication for a change of the speaker)"
+(b) "Yes, I do think that all drunk drivers should go to prison, but your honor, he is my son!  He is a good boy who just made a mistake! [17]"
+(c) "Superstition is a belief or practice resulting from ignorance, fear of the unknown, trust in magic or chance, or a false conception of causation -- unless it is astrology. [17]"
 
 **28. "statistics of small numbers [2]"**
 (a) "They say 1 out of every 5 people is Chinese. How is this possible? I know hundreds of people, and none of them is Chinese.[2](changed from italic to normal font)"
+(b) "If someone goes into a house and the first three rooms that they enter are painted red, that does not necessarily give an accurate representation of the color of the rest of the rooms in the house. [18]"
 
 **29. "misunderstanding of the nature of statistics[2]"; "confusion of correlation and causation[2]"; "post hoc, ergo propter hoc[2](changed from italic to normal font)" ("It happened after, so it was caused by[2]")**
 (a) "President Dwight Eisenhower expressing astonishment and alarm on discovering that fully half of all Americans have below average intelligence[2](changed from italic to normal font)"
