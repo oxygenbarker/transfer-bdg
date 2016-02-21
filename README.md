@@ -19,6 +19,12 @@
 - [16] http://content.time.com/time/specials/2007/article/0,28804,1658545_1657686,00.html
 - [17] http://www.logicallyfallacious.com/index.php/logical-fallacies/164-special-pleading
 - [18] https://prezi.com/z425s00sshsd/logical-fallacies-statistics-of-small-numbers/
+- [19] http://www.goodreads.com/quotes/tag/non-sequitur
+- [20] http://skepdic.com/nonsequitur.html
+- [21] http://www.open.edu/openlearn/science-maths-technology/science/physics-and-astronomy/astronomy/the-meaningless-big-bang-question
+- [22] http://changingminds.org/techniques/language/modifying_meaning/weasel_words.htm
+- [23] http://solarviews.com/eng/saturnbg.htm
+- [24] http://skepdic.com/chopra.html
 - a few own examples
 
 "The question is not whether we like the conclusion that emerges out of a train of reasoning, but whether the conclusion follows from the premise or starting point and whether the premise is true. [2]"
@@ -26,18 +32,18 @@
 #### Bad practices (what you should NOT do)
 **1. "Theory Influences Observations [1]"** 
 (a) "Cinnamon was a valuable Asian spice, and the first New World shrub that smelled like cinnamon was declared to be it.[1]"
-(b) Quantum physics changed how we analyze subatomic events. In fact, we do not do the analysis for separate events anymore.
+(b) Quantum physics changed how we analyze subatomic events. In fact, we do not do the analysis for separate events anymore.[1]
 
 **2. "The Observer Changes The Observed [1]"**
-(a) Anthropologists study a tribe which may alter the behavior of the tribe members.
+(a) Anthropologists study a tribe which may alter the behavior of the tribe members.[1]
 (b) Building an apparatus to measure electrons might change the behavior of the electrons. [4]
 
 **3. "Equipment Constructs Results [1]"**
 (a) Using a specific fisher's net:[1]
     (i) "No sea-creature is less than 2 inches long.[1]"
     (ii) "All sea-creatures have gills.[1]"
-An ichthyologist then might say: “Anything uncatchable by my net is ipso facto outside the scope of ichthyological knowledge and not part of the kingdom of fishes.[1]“
-(b) Bad telescopes were the reason why in earlier days people thought that Saturn consists of three parts instead of having rings.
+An ichthyologist then might say: "Anything uncatchable by my net is ipso facto outside the scope of ichthyological knowledge and not part of the kingdom of fishes.[1]"
+(b) Bad telescopes were the reason why in earlier days people thought that Saturn consists of three parts instead of having rings: "[Galileo Galilei] said 'I have observed the highest planet [Saturn] to be tripled-bodied. This is to say that to my very great amazement Saturn was seen to me to be not a single star, but three together, which almost touch each other.' [23]"
 
 **4. "Anecdotes Do Not Make A Science [1]"**
 "[T]en anecdotes are not better than one. [1]" "[100] anecdotes are not better than ten.[1]"
@@ -48,50 +54,51 @@ An ichthyologist then might say: “Anything uncatchable by my net is ipso facto
 (a) “[...] New Age Column in the Santa Monica News: 'This planet has been slumbering for eons and with the inception of higher energy frequencies is about to awaken in term of consciousness and spirituality. Masters of limitation and masters of divination use the same creative force to manifest their realities, however, one moves in a downward spiral and the latter moves in an upward spiral, each increasing the resonant vibration inherent in them.' [1]"
 Where is the evidence, experimental testing, and corroboration?
 (b) Creationists often use scientific terms.
+(c) Supposedly Deepak Chopra: "Quantum healing is healing the bodymind from a quantum level. That means from a level which is not manifest at a sensory level. Our bodies ultimately are fields of information, intelligence and energy. Quantum healing involves a shift in the fields of energy information, so as to bring about a correction in an idea that has gone wrong. So quantum healing involves healing one mode of consciousness, mind, to bring about changes in another mode of consciousness, body. [24]"
 
 **6. "Bold Statements Do Not Make Claims True[1]"**
 High probability of pseudo-science if there are enormous claims used.[1]
 (a) "The creation of Dianetics is a milestone for man comparable to his discovery of fire and superior to his invention of the wheel and arch.[5]"
-(b) Wilhelm Reich's Orgonomy: "a revolution in biology and psychology comparable to the Copernican Revolution[6]"
+(b) Supposedly Wilhelm Reich's Orgonomy: "a revolution in biology and psychology comparable to the Copernican Revolution[6]"
 Also scientists do that mistake sometimes:
 (c) Stanley Pons and Martin Fleischmann 1989 press conference: Cold nuclear fusion works![1]
 About 50 years of physics would have been proven wrong.[1] The experiment was not reproducible by others.
 
 **7. "Heresy Does Not Equal Correctness[1]"**
 "They laughed at Copernicus [and] the Wright brothers.[1]" But still being laughed at does not make any ideas more valid.[1]
-(a) Wilhelm Reich: “Whatever you have done to me or will do to me in the future, whether you glorify me as a genius or put me in a mental institution, whether you adore me as your savior or hang me as a spy, sooner or later necessity will force you to comprehend that I have discovered the laws of the living.[6]“
+(a) Supposedly Wilhelm Reich: “Whatever you have done to me or will do to me in the future, whether you glorify me as a genius or put me in a mental institution, whether you adore me as your savior or hang me as a spy, sooner or later necessity will force you to comprehend that I have discovered the laws of the living.[6]“
 (b) Gary Smith (Sportswriter, Sports Illustrated): "150 years ago, they would have thought you were absurd if you advocated for the end of slavery. 100 years ago, they would have laughed at you for suggesting that women should have the right to vote. 50 years ago, they would object to the idea of African Americans receiving equal rights under the law. 25 years ago they would have called you a pervert if you advocated for gay rights. They laugh at us now for suggesting that animal slavery be ended. Some day they won't be laughing.[9]"
 (c) "They laughed at Columbus, they laughed at Fulton [...] But they also laughed at Bozo the Clown. [14]" 
 
 **8. "Burden Of Proof[1]"**
 "The person making the extraordinary claim has the burden of proving to the experts and to the community at large that his or her belief has more validity than the one almost everyone else accepts.[1]"
 (a) "Evolutionists [and Darwin] had the burden of proof for half a century [...] but now the burden of proof is on creationists.[1]"
-(b) Holocaust deniers have to prove that it did not happen. [1]
+(b) Holocaust deniers have to prove that it did not happen.[1]
 
 **9. "Rumors Do Not Equal Reality[1]"**
-(a) Urban legends, ... most of them were never confirmed.
+(a) Urban legends, ... most of them were never confirmed.[1]
 (b) The Nazis had a secret antarctic fortress. [10]
 
 **10. "Unexplained Is Not Inexplicable[1]"**
 (a) "An amateur archeologist declares that because he cannot figure out how the pyramids were built, they must have been constructed by space aliens.[1]"
-(b) Science cannot explain what happened before the big bang. Therefore it must have been God who did it.
-(c) Science does not have answers to everything. If I go to an energy healer because I have got a headache and afterwards the headache is gone, I know that it works. 
+(b) Science cannot explain what happened before the Big Bang. Therefore it must have been God who did it.
+(c) Science does not have answers to everything. If I go to an energy healer because I have got a headache and afterwards the headache is gone, I know that energy healing works. 
 (d) "Feats such as the bending of spoons, firewalking, or mental telepathy are often thought to be of paranormal or mystical nature because most people cannot explain them. [...] Firewalking is a case in point. People speculate endlessly about supernatural powers over pain and heat, or mysterious brain chemicals that block the pain and prevent burning. The simple explanation is that the capacity of light and fluffy coals to contain heat is very low, and the conductivity of heat from the light and fluffy coals to your feet is very poor.[1]"
 
 **11. "Failures Are Rationalized[1]"**
 Real scientists will admit errors, pseudoscientists will rationalize their failures.[1]
-(a) My power usually works but this situation of the test or with these cameras has a bad influence on my psychic powers.
+(a) My power usually works but this situation of the test or these cameras had a bad influence on my psychic powers.
 (b) My powers are mythical and come and go, so when pressured I sometimes have to cheat.[1]
 
 **12. "After-the-Fact Reasoning[1]"**
 (a) A Baseball player does not shave and hits two home-runs in a row.[1] Then he thinks it was because he did not shave. If he did shave but did wear different shoes than normally he would have thought that it was because of the shoes.
-Science works the other way round: First you make a claim: “Not shaving increases the probability to do home-runs.“ and then you check out if in the long run you make more home-runs than normally.
+Science works the other way round: First you make a claim: Not shaving increases the probability to do home-runs. And then you check out if in the long run you make more home-runs than normally.
 (b) People take whole packages of homeopathic medicine to demonstrate that it has no effect.[7] The homeopath might say: Look how good it is. It has no side effects!
 
 **13. "Coincidence[1]"**
 (a) "A gambler will win six [times] in a row and then think he is [...] 'on a hot streak'.[1]"
-(b) The phone rings and you think it is Bob. When it is Bob you think that this means anything.[1]
-What are the chances that this happens? It will happen sometimes. In addition we have the tendency to remember the hits and forget the misses (see 14.).
+(b) The phone rings and you think it is Bob. When it is Bob you think that this means anything.
+What are the chances that this happens? It will happen sometimes. In addition we have the tendency to remember the hits and forget the misses (see 14.) [1].
 
 **14. "Representativeness[1]"**
 Aristotle: "The sum of coincidences equals certainty.[1]"
@@ -100,7 +107,7 @@ Aristotle: "The sum of coincidences equals certainty.[1]"
 
 **15. "Emotive Words and False Analogies[1]"**
 Motherhood, America, integrity, honesty might invoke positive reactions, words like rape, cancer, evil, communist might lead to negative reactions.[1]
-(a) "The cancer of society,[1]" "raping the environment,[1]" Memes, ...
+(a) "The cancer of society,[1]" "raping the environment,[1]" memes, ...
 The thinking can be clouded by this.[1]
 (b) "Fisherman often injure a few captive dolphins with a spear thrust or knife slash ... since dolphins never abandon wounded family members. Mothers and babies call out in distress as they are separated, hoisted up and dragged off ... soon to be mercilessly hacked to death. These are benign and innocent beings and they deserve better. [12]"
 
@@ -114,9 +121,9 @@ The thinking can be clouded by this.[1]
 **17. "Ad Hominem and Tu Quoque[1]"**
 "Literally 'to the man' and 'you also'[...][1]"
 "[F]allacy to redirect the focus from thinking about the idea to thinking about the person holding the idea.[1]"
-(a) Responding to somebody saying: "Hitler did not have a master plan for the Extermination of the European Jewry [...][1]" with “You are a neo-Nazi and an anti-Semite“ does not refute the argument.[1] "Whether Hitler had a master plan is a question that can be settled historically.[1]"
-(b) T. Colin Campbell (author of “The China Study” answering the critical analysis of his book, don't confuse with the real study “Diet, Life-Style, and Mortality in China”): “Not only does Denise misrepresent and misunderstand the rationale for the science in The China Study, her choice of words do not facilitate what she hopes to achieve. Her overall message, often embellished with adjectives and subjective remarks, appeals to some questionable characters sympathetic to or subservient to the Weston A Price Foundation, a farm lobbying group.” [3]
-(c) “You cheat on taxes!“ - „So do you!“ is not a proof in one way or another.[1]
+(a) Responding to somebody saying: "Hitler did not have a master plan for the Extermination of the European Jewry [...][1]" with 'You are a neo-Nazi and an anti-Semite' does not refute the argument.[1] "Whether Hitler had a master plan is a question that can be settled historically.[1]"
+(b) T. Colin Campbell (author of “The China Study” answering the critical analysis of his book, don't confuse with the real study “Diet, Life-Style, and Mortality in China”): "Not only does Denise misrepresent and misunderstand the rationale for the science in The China Study, her choice of words do not facilitate what she hopes to achieve. Her overall message, often embellished with adjectives and subjective remarks, appeals to some questionable characters sympathetic to or subservient to the Weston A Price Foundation, a farm lobbying group." [3]
+(c) 'You cheat on taxes!' - 'So do you!' is not a proof in one way or another.[1]
 
 **18. "Hasty Generalization[1]"**
 Prejudice, drawing conclusions before the facts warrant it[1]
@@ -137,7 +144,7 @@ It is not enough to discredit another theory. If your theory is superior it must
 (d) Special case short-term vs. long-term: "We can't afford programs to feed malnourished children and educate pre-school kids. We need to urgently deal with crime on the streets.[2](changed from italic to normal font)"
 
 **21. "Circular Reasoning" ("fallacy of redundancy[1] (changed from italic to normal font)", "tautology[1] (changed from italic to normal font)") "and begging the question[1] (changed from italic to normal font)""**
-(a) "Is there a God? Yes. - How do you know? - “Because the Bible says so. - How do you know the Bible is correct? - Because it was inspired by God.[1] (changed from italic to normal font, added hyphens)" = "God is because God is.[1]"
+(a) "'Is there a God?' - 'Yes.' - 'How do you know?' - 'Because the Bible says so.' - 'How do you know the Bible is correct?' - 'Because it was inspired by God.'[1] (changed from italic to normal font, added hyphens and speech marks)" = "God is because God is.[1]"
 (b) "What is gravity? - The tendency for objects to be attracted to one another. - Why are objects attracted to one another? - Gravity.[1] (changed from italic to normal font, added hyphens)" = "[G]ravity is because gravity is.[1]"
 "[A] tautological operational definition can still be useful [...] but we must try to construct operational definitions that can be tested, falsified, and refuted.[1]"
 (c) "We must institute the death penalty to discourage violent crime.[2](changed from italic to normal font)"
@@ -162,7 +169,7 @@ People tend to
 (ii) "Do not seek evidence to disprove the hypothesis.[1]"
 (iii) "Are very slow to change the hypothesis even when it is obviously wrong.[1]"
 (iv) "If the information is too complex, adopt overly-simple hypotheses or strategies for solutions.[1]"
-(v) "If there is no solution, if the problem is a trick and “right“ and “wrong“ is given at random, form hypotheses about coincidental relationships they observed. Causality is always found.[1]"
+(v) "If there is no solution, if the problem is a trick and 'right' and 'wrong' is given at random, form hypotheses about coincidental relationships they observed. Causality is always found.[1]"
 
 **25. "Ideological Immunity, or the Planck Problem [1]"**
 immunity built up against new ideas by confidence in the own fundamental paradigm.[1]
@@ -192,14 +199,19 @@ Often to rescue a deep rhetorical trouble[2]
 
 **30. "inconsistency [2]"**
 (a) "Attribut[ing] the declining life expectancy in the former Soviet Union to the failures of communism many years ago, but never attribut[ing] the high infant mortality in the United States [...] to the failures of capitalism.[2](changed from italic to normal font)"
-(b) People using this Baloney Detection Kit to point out the flaws in other people's thinking but not using it to check their own beliefs.
+(b) People using these baloney detection guidelines to point out the flaws in other people's thinking but not using it to check their own beliefs.
 
 **31. "non sequitur" [2](changed from italic to normal font)("it does not follow [2]")**
 (a) "Our nation will prevail because God is great. [2](changed from italic to normal font)"
+(b) "'It was a spring day, the sort that gives people hope: all soft winds and delicate smells of
+warm earth. Suicide weather.' – Susanna Kaysan[19]"
+(c) "Another example of non sequitur reasoning comes from those who try to justify seeing a homeopath or some other 'alternative' therapist because scientific medicine hasn't cured what ails them. Again, to justify using homeopathy or acupuncture, one needs direct evidence that those treatments are effective, not that some other method isn't effective.[20]"
 
 **32. "meaningless question [2]"**
 (a) "What happens when an irresistible force meets an immovable object? [2](changed from italic to normal font)"
 If there is an irresistible force there cannot be an immovable object and vice versa.[2]
+(b) What's the meaning of life?
+(c) What happened before the Big Bang? [21] (Spacetime was created with the Big Bang as far as we know.)
 
 **33. "straw man [2]"**
 "caricaturing a position to make it easier to attack [2]"
@@ -217,29 +229,29 @@ A detail is missing:[2] "was it recorded before or after the event?[2]"
 (a) "[T]he United States may not conduct a war without a declaration by Congress. [2]" Therefore other words are used:
 police actions, armed incursions, protective reaction strikes, pacification, safeguarding American interests, operations [2]
 Talleyrand: "An important art of politicians is to find new names for institutions which under old names have become odious to the public. [2]"
-
+(b) "Zokko toothpaste combats oral bacteria. (combats, but does not necessarily win) [22]"
 
 
 #### Good practices (what you should do):
-**A.** Independent confirmation of the “facts“ whenever possible[2]
+**A.** Independent confirmation of the 'facts' whenever possible[2]
 Make it more unlikely that something else is/was going on.
 
-**B.** Encourage substantive debate on the evidence[2]
+**B.** "Encourage substantive debate on the evidence[2]"
 Knowledgeable proponents of all points of view should participate so you get different explanations. Compare with C.
 
-**C.** "Spin more than one hypothesis"[2]
+**C.** "Spin more than one hypothesis[2]"
 "If there's something to be explained, think of all the different ways in which it could be explained. Then think of tests how to disprove each of the alternatives.[2](changed from italic to normal font)" What remains, meaning resists disproof, has a much better chance of being the right answer than just running with the first idea.[2]
 
-**D.** "Try not to get overly attached to a hypothesis just because it's yours"[2]
+**D.** "Try not to get overly attached to a hypothesis just because it's yours[2]"
 "It's only a way station in the pursuit of knowledge. Ask yourself, why you like the idea. [...] See if you find reasons for rejecting it. If you don't, others will.[2]"
 
-**E.** "Quantify"[2]
+**E.** "Quantify[2]"
 "If whatever it is you're explaining has some measure, some numerical quantity attached to it, you'll be much better able to discriminate among competing hypotheses. [...] Of course there are truths to be sought in the many qualitative issues we are obliged to confront, but finding them is more challenging. [2](changed from italic to normal font)"
 
 **F.** Every link of a chain argument has to work [2]
 This includes the premise! It is not enough if most of the links work if you want to conclude anything from it. [2]
 
-**G.** "Occam's Razor"[2]
+**G.** "Occam's Razor[2]"
 Rule-of-thumb: If there are two hypotheses explaining the data equally well, choose the simpler one.[2]
 Simpler here means less assumptions and less unproven assumptions. Don't confuse with “easy explanations” which often make the greatest assumptions!
 (a) The hypothesis that everything in the universe is moving and turning around the earth makes the derivation of physical laws (planetary orbits moving in relation to the earth) much more complicated than if the earth is only one part and also moving.
